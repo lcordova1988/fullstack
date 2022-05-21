@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 52px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 26 px;
+}
+
+ul {
+    color:  white;
+}
+
+form {
+    color: white;
+    margin: auto;
+    font-family: sans-serif;
+}
+p {
+    color: white;
+    font-family: sans-serif
+    
+}
+
+ol {
+    color: white;
+    
+}
